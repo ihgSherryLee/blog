@@ -1,4 +1,12 @@
-#### electron preload 的用法
+---
+title: electron preload 的用法
+categories:
+  - electron
+tags:
+  - electron
+  - preload
+abbrlink: 39ed72a2
+---
 
 在electron中，主进程和渲染进程进行通信，可以通过ipc模块发送和接收信息。
 

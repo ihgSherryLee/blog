@@ -1,4 +1,11 @@
-title: electron采坑(一)
+---
+title: electron踩坑(一)
+categories:
+  - electron
+tags:
+  - electron
+  - 踩坑
+abbrlink: 4d2accbc
 ---
 
 公司项目使用electron开发，

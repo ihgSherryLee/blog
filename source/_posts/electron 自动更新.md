@@ -1,4 +1,11 @@
-title: electron采坑(二)
+---
+title: electron踩坑(二)
+categories:
+  - electron
+tags:
+  - electron
+  - 踩坑
+abbrlink: e21b57de
 ---
 
 在后续维护electron项目中想到：每次客户端有更新(即使改动不大),都要重新打包后把客户端发给供应商用户，虽随着用户越来越多，更新也越来越麻烦，花在沟通上的成本更大，所以考虑使用自动更新，减少沟通成本，让用户在没有察觉的情况下就能更新到最新版。
